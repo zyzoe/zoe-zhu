@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoe Zhu
+title: Yi (Zoe) Zhu
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://datascience.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: []
 
 # Interests to show in About widget
 interests: []
@@ -58,7 +58,7 @@ email: ""
 highlight_name: true
 ---
 
-Nice to meet you 你好～ ヾ(o´ω｀o)ﾉﾞ!  
+Nice to meet you! 你好～ ヾ(o´ω｀o)ﾉﾞ  
 
 My name is Yi Zhu (朱易) and I go by Zoe.
 
