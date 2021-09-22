@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:yz656@duke.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/zyzoe
