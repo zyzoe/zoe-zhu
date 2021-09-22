@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: MS in Data Science
-    institution: Duke University
-    year: 2020-2022
+    institution: Duke University, 2020 - 2022
+    year: []
   - course: BS in Statistics & Psychology
     institution: UC Davis
     year: 2016-2020
