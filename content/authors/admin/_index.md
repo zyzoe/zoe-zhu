@@ -6,7 +6,7 @@ title: Zoe Zhu
 superuser: true
 
 # Role/position/tagline
-role: Data Science Graduate Student
+role: MS in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,10 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interests: []
 
 # Education to show in About widget
 education:
@@ -29,8 +26,8 @@ education:
     institution: Duke University, 2020 - 2022
     year: []
   - course: BS in Statistics & Psychology
-    institution: UC Davis
-    year: 2016-2020
+    institution: UC Davis, 2016 - 2022
+    year: []
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
