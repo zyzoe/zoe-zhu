@@ -28,8 +28,8 @@ education:
   - course: BS in Statistics & Psychology
     institution: UC Davis, 2016 - 2022
     year: []
-  - course: International Baccalaureate Diploma Programme
-    institution: High School Affiliated to Nanjing Normal University, 2013 - 2016
+  - course: International Baccalaureate \nDiploma Programme
+    institution: HS Affiliated to Nanjing Normal University, 2013 - 2016
     year: []
 
 # Social/Academic Networking
