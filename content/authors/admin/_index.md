@@ -67,4 +67,4 @@ My name is Yi Zhu (朱易) and I go by Zoe.
 
 I am a Data Science Master candidate at Duke University graduating in May 2022. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< staticref "uploads/resume.pdf" >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref uploads/resume.pdf >}}.
