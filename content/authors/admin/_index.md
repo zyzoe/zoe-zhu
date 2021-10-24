@@ -26,10 +26,10 @@ education:
     institution: Duke University, 2020 - 2022
     year: []
   - course: BS in Statistics & Psychology
-    institution: UC Davis, 2016 - 2022
+    institution: UC Davis, 2016 - 2020
     year: []
   - course: International Baccalaureate Diploma
-    institution: HS Affiliated to Nanjing Normal University, 2013 - 2016
+    institution: HS affiliated to Nanjing Normal Univ., 2013 - 2016
     year: []
 
 # Social/Academic Networking
@@ -65,6 +65,6 @@ Nice to meet you! 你好～ ヾ(o´ω｀o)ﾉﾞ
 
 My name is Yi Zhu (朱易) and I go by Zoe.
 
-I am a Data Science Master candidate at Duke University graduating in May 2022. 
+I am a master's in data science candidate at Duke University graduating in May 2022. 
 
 For more information, feel free to explore my website or check my [resume](uploads/resume.pdf).
