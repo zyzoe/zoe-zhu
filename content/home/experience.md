@@ -43,11 +43,11 @@ experience:
     date_end: ''
     description: |2-
       • &nbsp;&nbsp;Mentor graduate-level projects related to data wrangling, modeling, analysis, and application.  
-      •  &nbsp;&nbsp;Capture and solve coding problems in Python, R, Bash, Git for inter-disciplinary students.  
-      •  &nbsp;&nbsp;**Courses:**  
-        •  &nbsp;&nbsp;Fuqua School of Business - Programming for Analysis and Visualization, Data Analytics and Applications [course site](https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics/curriculum)  
-        •  &nbsp;&nbsp;MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
-        •  &nbsp;&nbsp;Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
+      • &nbsp;&nbsp;Capture and solve coding problems in Python, R, Bash, Git for inter-disciplinary students.  
+      **Courses:**  
+      &nbsp;&nbsp; • &nbsp;&nbsp;Fuqua School of Business - Programming for Analysis and Visualization, Data Analytics and Applications [course site](https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics/curriculum)  
+      &nbsp;&nbsp; • &nbsp;&nbsp;MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
+      &nbsp;&nbsp; • &nbsp;&nbsp;Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
     
 
 design:
