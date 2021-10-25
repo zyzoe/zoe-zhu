@@ -34,20 +34,20 @@ experience:
       • &nbsp;&nbsp;Create automation to facilitate research collaboration across divisions and increase search efficiency.  
       • &nbsp;&nbsp;Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.  
         
-#  - title: Graduate Teaching Assistant
-#    company: Duke University
-#    company_url: ''
-#    company_logo: duke
-#    location: California
-#    date_start: '2021-05-01'
-#    date_end: ''
-#    description: |2-
-#    •  Mentor graduate-level projects related to data wrangling, modeling, analysis, and application.  
-#    •  Capture and solve coding problems in Python, R, Bash, Git for inter-disciplinary students.  
-#    •  **Courses:**  
-#       •  Fuqua School of Business - Programming for Analysis and Visualization, Data Analytics and Applications [course site](https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics/curriculum)  
-#       •  MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
-#       •  Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
+  - title: Graduate Teaching Assistant
+    company: Duke University
+    company_url: ''
+    company_logo: duke
+    location: California
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+      • &nbsp;&nbsp;Mentor graduate-level projects related to data wrangling, modeling, analysis, and application.  
+      •  &nbsp;&nbsp;Capture and solve coding problems in Python, R, Bash, Git for inter-disciplinary students.  
+      •  &nbsp;&nbsp;**Courses:**  
+        •  &nbsp;&nbsp;Fuqua School of Business - Programming for Analysis and Visualization, Data Analytics and Applications [course site](https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics/curriculum)  
+        •  &nbsp;&nbsp;MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
+        •  &nbsp;&nbsp;Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
     
 
 design:
