@@ -60,8 +60,18 @@ experience:
       • &nbsp;&nbsp;Developed an interactive dashboard on self-defined metrics to visualize the impact of 3D scans of specimens. Derived insights to encourage user contribution and optimize data storage allocations.  
       • &nbsp;&nbsp;Remapped user information after database reconsolidation. Prototyped the data analysis pipeline with cleaning and processing.  
       • &nbsp;&nbsp;Worked and communicated across functions in a virtual environment setting to drive the product updates.    
-      
-      
+
+  - title: Research Assistant
+    company: UC Davis FoxLab
+    company_url: https://foxlab.ucdavis.edu/
+    company_logo: ucd
+    location: ''
+    date_start: '2018-11-01'
+    date_end: '2020-06-01'
+    description: |2-
+      • &nbsp;&nbsp;Implemented an advanced CNN architecture Deeplabcut for object detection with annotations to identify key body part coordinates for research subject video data.   
+      • &nbsp;&nbsp;Performed clustering methods including PCA and tSNE on research subjects' behavior to classify their time-stamped emotional state. Contributed the analysis to the NIH grant proposal and received approval. 
+
 design:
   columns: '2'
 ---
