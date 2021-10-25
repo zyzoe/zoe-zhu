@@ -41,7 +41,7 @@ item:
   title: Neo4j Graph Data Science Certification Candidate
   url: https://neo4j.com/graphacademy/neo4j-gds-certify/
   
-  - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2021-11-30"
   description: ""
