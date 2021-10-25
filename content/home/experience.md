@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Capstone Data Scientist
     company: IEEE
-    company_url: ''
+    company_url: https://ieeexplore.ieee.org/Xplore/home.jsp
     company_logo: ieee
     location: ''
     date_start: '2021-08-01'
@@ -38,7 +38,7 @@ experience:
     company: Duke University
     company_url: ''
     company_logo: duke
-    location: California
+    location: ''
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
@@ -49,7 +49,19 @@ experience:
       &nbsp;&nbsp; • &nbsp;&nbsp;MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
       &nbsp;&nbsp; • &nbsp;&nbsp;Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
     
-
+  - title: Data Scientist Intern
+    company: MorphoSource Repository
+    company_url: https://www.morphosource.org/
+    company_logo: morphosource_repo
+    location: ''
+    date_start: '2021-05-01'
+    date_end: '2021-08-01'
+    description: |2-
+      • &nbsp;&nbsp;Developed an interactive dashboard on self-defined metrics to visualize the impact of 3D scans of specimens. Derived insights to encourage user contribution and optimize data storage allocations.  
+      • &nbsp;&nbsp;Remapped user information after database reconsolidation. Prototyped the data analysis pipeline with cleaning and processing.  
+      • &nbsp;&nbsp;Worked and communicated across functions in a virtual environment setting to drive the product updates.    
+      
+      
 design:
   columns: '2'
 ---
