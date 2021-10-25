@@ -29,24 +29,24 @@ item:
   description: Build, train, tune, and deploy ML models using the AWS Cloud.
   organization: AWS
   organization_url: https://aws.amazon.com/
-  title: 'AWS Certified Machine Learning – Specialty'
+  title: AWS Certified Machine Learning – Specialty
   url: https://aws.amazon.com/certification/certified-machine-learning-specialty/
-- certificate_url: ""
-  date_end: ""
-  date_start: "2021-09"
-  description: Execute graph algorithms that operate on the nodes and relationships in a graph.
-  organization: Neo4j
-  organization_url: https://neo4j.com/
-  title: 'Neo4j Graph Data Science Certification Candidate'
-  url: https://neo4j.com/graphacademy/neo4j-gds-certify/
-- certificate_url: ""
-  date_end: ""
-  date_start: "2021-11-30"
-  description: ""
-  organization: Tableau
-  organization_url: https://www.tableau.com/
-  title: 'Tableau Certified Data Analyst Candidate'
-  url: https://www.tableau.com/learn/certification/certified-data-analyst
+# - certificate_url: ""
+#  date_end: ""
+#  date_start: "2021-09"
+#  description: Execute graph algorithms that operate on the nodes and relationships in a graph.
+#  organization: Neo4j
+#  organization_url: https://neo4j.com/
+#  title: 'Neo4j Graph Data Science Certification Candidate'
+#  url: https://neo4j.com/graphacademy/neo4j-gds-certify/
+# - certificate_url: ""
+#  date_end: ""
+#  date_start: "2021-11-30"
+#  description: ""
+#  organization: Tableau
+#  organization_url: https://www.tableau.com/
+#  title: 'Tableau Certified Data Analyst Candidate'
+#  url: https://www.tableau.com/learn/certification/certified-data-analyst
 
 design:
   columns: '2' 
