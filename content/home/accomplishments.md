@@ -44,7 +44,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-11-30"
-  description: Understand the business problem, identify data to explore for analysis, and deliver actionable insights
+  description: Understand the business problem, identify data to explore for analysis, and deliver actionable insights.
   organization: Tableau
   organization_url: https://www.tableau.com/
   title: Tableau Certified Data Analyst Candidate
