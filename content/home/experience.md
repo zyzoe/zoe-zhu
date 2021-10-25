@@ -22,19 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Capstone Data Scientist
+    company: IEEE
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: ieee
+    location: ''
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+       
+        • Leverage topic modeling and knowledge graph to enable efficient cross-disciplinary research and new concepts discovery for large-scale datasets (5.4M+ publications) hosted by IEEE Xplore digital library.
+        • Create automation to facilitate research collaboration across divisions and increase search efficiency.
+        • Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.
         
   - title: Professor of Semiconductor Physics
     company: University X
