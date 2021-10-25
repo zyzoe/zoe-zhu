@@ -30,18 +30,25 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-       Leverage topic modeling and knowledge graph to enable efficient cross-disciplinary research and new concepts discovery for large-scale datasets (5.4M+ publications) hosted by IEEE *Xplore* digital library.  
-       Create automation to facilitate research collaboration across divisions and increase search efficiency.  
-       Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.  
+       •  Leverage topic modeling and knowledge graph to enable efficient cross-disciplinary research and new concepts discovery for large-scale datasets (5.4M+ publications) hosted by IEEE *Xplore* digital library.  
+       •  Create automation to facilitate research collaboration across divisions and increase search efficiency.  
+       •  Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.  
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Teaching Assistant
+    company: Duke University
     company_url: ''
-    company_logo: org-x
+    company_logo: duke
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+    •  Mentor graduate-level projects related to data wrangling, modeling, analysis, and application.  
+    •  Capture and solve coding problems in Python, R, Bash, Git for inter-disciplinary students.  
+    •  **Courses:**  
+       •  Fuqua School of Business - Programming for Analysis and Visualization, Data Analytics and Applications [course site](https://www.fuqua.duke.edu/programs/accelerated-msqm-business-analytics/curriculum)  
+       •  MIDS (my program :)) - Practical Data Science [course site](https://www.practicaldatascience.org/html/index.html)  
+       •  Bootcamp - Computational Methods for Social Scientists [course site](https://cm4ss.com/html/index.html)  
+    
 
 design:
   columns: '2'
