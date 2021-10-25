@@ -31,15 +31,17 @@ item:
   organization_url: https://aws.amazon.com/
   title: AWS Certified Machine Learning – Specialty
   url: https://aws.amazon.com/certification/certified-machine-learning-specialty/
+
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-09"
+  date_start: "2021-09-30"
   description: Execute graph algorithms that operate on the nodes and relationships in a graph.
   organization: Neo4j
   organization_url: https://neo4j.com/
   title: Neo4j Graph Data Science Certification Candidate
   url: https://neo4j.com/graphacademy/neo4j-gds-certify/
-- certificate_url: ""
+  
+  - certificate_url: ""
   date_end: ""
   date_start: "2021-11-30"
   description: ""
