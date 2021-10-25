@@ -29,7 +29,7 @@ education:
     institution: UC Davis, 2016 - 2020
     year: []
   - course: International Baccalaureate Diploma
-    institution: HS affiliated to Nanjing Normal Univ., 2013 - 2016
+    institution: HS affiliated to Nanjing Normal University, 2013 - 2016
     year: []
 
 # Social/Academic Networking
