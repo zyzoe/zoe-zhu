@@ -30,9 +30,9 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-       • &nbsp;Leverage topic modeling and knowledge graph to enable efficient cross-disciplinary research and new concepts discovery for large-scale datasets (5.4M+ publications) hosted by IEEE *Xplore* digital library.  
-       • &nbsp;Create automation to facilitate research collaboration across divisions and increase search efficiency.  
-       • &nbsp;Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.  
+       • &nbsp;&nbsp;Leverage topic modeling and knowledge graph to enable efficient cross-disciplinary research and new concepts discovery for large-scale datasets (5.4M+ publications) hosted by IEEE *Xplore* digital library.  
+       • &nbsp;&nbsp;Create automation to facilitate research collaboration across divisions and increase search efficiency.  
+       • &nbsp;&nbsp;Design end-to-end ML pipelines to extract scientific concepts, validate through graph linkages; Tag paper with concepts based on relevancy, and establish the parent-child hierarchy between concepts.  
         
 #  - title: Graduate Teaching Assistant
 #    company: Duke University
