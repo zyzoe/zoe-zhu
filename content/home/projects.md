@@ -28,13 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: Statistical Modeling
-    tag: `Statistical Modeling`
+    tag: Statistical Modeling
   - name: Deep Learning
-    tag: `Deep Learning`
+    tag: Deep Learning
   - name: Visualization
-    tag: `Visualization`
+    tag: Visualization
   - name: Other
-    tag: `Other`
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
