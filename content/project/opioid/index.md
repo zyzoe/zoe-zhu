@@ -1,6 +1,6 @@
 ---
 title: List of Statistical Modeling Projects
-summary: Including: Causal Inference, Time Series Analysis, Hierarchical Modeling & Regression
+summary: Including Causal Inference, Time Series Analysis, Hierarchical Modeling & Regression
 tags:
 - Statistical Modeling
 date: ""
