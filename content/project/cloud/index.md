@@ -1,6 +1,6 @@
 ---
 title: Flask Web App for Language Translation
-summary: A severless web app for language translation built on AWS with CI/CD. 
+summary: A serverless web app for language translation built on AWS with CI/CD. 
 tags:
 - Other
 - Cloud
