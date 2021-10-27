@@ -17,7 +17,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/zyzoe/statistical-modeling-projects"
+# url_code: "https://github.com/zyzoe/statistical-modeling-projects"
 url_pdf: ""
 url_slides: ""
 url_video: ""
