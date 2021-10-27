@@ -31,8 +31,6 @@ content:
     tag: Statistical Modeling
   - name: Deep Learning
     tag: Deep Learning
-  - name: Visualization
-    tag: Visualization
   - name: Other
     tag: Other
 
