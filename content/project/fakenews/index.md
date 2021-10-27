@@ -2,7 +2,8 @@
 title: Fake News Text Classification
 summary: An analysis and comparison of word2vec and GloVe embeddings for fake news text classification.
 tags:
-- Deep Learning, NLP
+- Deep Learning
+- NLP
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
