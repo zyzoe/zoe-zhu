@@ -1,26 +1,26 @@
 ---
-title: List of Stats proj
-summary: An example of using the in-built project page.
+title: Statistical Modeling Projects
+summary: A list of statistcal modeling projects including: Causal Inference, Time Series Analysis, Hierarchical Modeling & Regression
 tags:
-- Deep Learning
+- Statistical Modeling, 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/zyzoe/statistical-modeling-projects"
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 
 # links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/zyzoe/statistical-modeling-projects"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#  url_code: "https://github.com/zyzoe/statistical-modeling-projects"
+#  url_pdf: ""
+#  url_slides: ""
+#  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
