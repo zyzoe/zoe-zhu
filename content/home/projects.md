@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Statistical Modeling
     tag: Statistical Modeling
+  - name: A/B testing
+    tag: A/B testing
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
