@@ -1,5 +1,5 @@
 ---
-title: Compare Word2vec and GloVe for Fake News Text Classification
+title: Fake News Text Classification
 summary: An analysis and comparison of word2vec and GloVe embeddings for fake news text classification.
 tags:
 - Deep Learning, NLP
