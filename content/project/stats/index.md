@@ -1,8 +1,8 @@
 ---
-title: List of Stats proj
-summary: An example of using the in-built project page.
+title: Statistical Modeling Projects
+summary: A list of statistical modeling projects including Causal Inference, Time Series Analysis, Hierarchical Modeling & Regression. 
 tags:
-- Deep Learning
+- Statistical Modeling
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
