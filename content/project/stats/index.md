@@ -1,15 +1,15 @@
 ---
-title: Statistical Modeling Projects
-summary: A list of statistcal modeling projects including: Causal Inference, Time Series Analysis, Hierarchical Modeling & Regression
+title: List of Stats proj
+summary: An example of using the in-built project page.
 tags:
-- Statistical Modeling
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/zyzoe/statistical-modeling-projects"
 
 image:
-  caption: Internet
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
@@ -27,6 +27,5 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-
 slides: example
 ---
