@@ -2,7 +2,6 @@
 title: A/B testing for Ads Tone
 summary: A/B Testing on the Effect of Different Advertisement Tones
 tags:
-- Other
 - A/B testing
 date: "2016-04-27T00:00:00Z"
 
