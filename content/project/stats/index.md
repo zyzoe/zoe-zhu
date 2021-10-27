@@ -10,17 +10,17 @@ external_link: "https://github.com/zyzoe/statistical-modeling-projects"
 
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Smart
 
 # links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#  url_code: "https://github.com/zyzoe/statistical-modeling-projects"
-#  url_pdf: ""
-#  url_slides: ""
-#  url_video: ""
+url_code: "https://github.com/zyzoe/statistical-modeling-projects"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
