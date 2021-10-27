@@ -18,14 +18,14 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 # url_code: "https://github.com/zyzoe/statistical-modeling-projects"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides = ""
 ---
